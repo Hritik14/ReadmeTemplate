@@ -37,8 +37,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
+* [Handle](#handle)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -64,6 +63,13 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 > how shall we begin with the project and what are the necessary things that we should do to begin with it.
 
+### Installation 
+
+ * what is the procedure for the installation if it is a software and what are the system requirements and the type of operating system required for your software to run smoothly
+
+# Handle 
+
+> how to handle the software i.e how the software should be setup and made it stable to run on your system and what are the extra configuration files required with the software
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -83,6 +89,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 [forks-url]: https://github.com/InsideU/ReadmeTemplate/network/members
 [stars-url]: https://github.com/InsideU/ReadmeTemplate/stargazers
 [issues-url]: https://github.com/InsideU/ReadmeTemplate/issues
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://google.com
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics

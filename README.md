@@ -80,7 +80,7 @@ Arch incorporates many of the newer features available to GNU/Linux users, inclu
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/umang84090) - umang20singh@gmail.com
+Your Name - [@Umang](https://twitter.com/umang84090) - umang20singh@gmail.com
 
 ## Study Guides
 

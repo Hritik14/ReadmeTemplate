@@ -38,10 +38,9 @@
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Handle](#handle)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Study Guides](#guides)
 
 
 ## About The Project
@@ -50,14 +49,17 @@
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Simplicity
+Arch Linux defines simplicity as without unnecessary additions or modifications. It ships software as released by the original developers (upstream) with minimal distribution-specific (downstream) changes: patches not accepted by upstream are avoided, and Arch's downstream patches consist almost entirely of backported bug fixes that are obsoleted by the project's next release.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+In a similar fashion, Arch ships the configuration files provided by upstream with changes limited to distribution-specific issues like adjusting the system file paths. It does not add automation features such as enabling a service simply because the package was installed. Packages are only split when compelling advantages exist, such as to save disk space in particularly bad cases of waste. GUI configuration utilities are not officially provided, encouraging users to perform most system configuration from the shell and a text editor
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+* Modernity
+
+Arch Linux strives to maintain the latest stable release versions of its software as long as systemic package breakage can be reasonably avoided. It is based on a rolling-release system, which allows a one-time installation with continuous upgrades.
+
+Arch incorporates many of the newer features available to GNU/Linux users, including the systemd init system, modern file systems, LVM2, software RAID, udev support and initcpio (with mkinitcpio), as well as the latest available kernels.
+
 
 ## Getting Started 
 
@@ -70,6 +72,26 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 # Handle 
 
 > how to handle the software i.e how the software should be setup and made it stable to run on your system and what are the extra configuration files required with the software
+
+
+## License
+
+> Provide the detail of the license if you hold any 
+
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/umang84090) - umang20singh@gmail.com
+
+## Study Guides
+
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Arch Linux Installation](https://www.ostechnix.com/install-arch-linux-latest-version/)
+* [Arch Linux IRC channels ](https://wiki.archlinux.org/index.php/Arch_IRC_channels)
+* [Arch linux sound system](https://wiki.archlinux.org/index.php/sound_system)
+* [Lean linux](https://www.javatpoint.com/linux-tutorial)
+* [Bash Scripting](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

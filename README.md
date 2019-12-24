@@ -75,7 +75,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/InsideU/ReadmeTemplate.svg?style=flat-square
 [forks-shield]: https://img.shields.io/github/forks/InsideU/ReadmeTemplate.svg?style=flat-square
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/InsideU/ReadmeTemplate.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/InsideU/ReadmeTemplate.svg?style=flat-square
 [issues-shield]: https://img.shields.io/github/issues/InsideU/ReadmeTemplate.svg?style=flat-square
 [license-shield]: https://img.shields.io/github/license/InsideU/ReadmeTemplate.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555

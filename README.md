@@ -6,7 +6,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,19 +14,19 @@
     <img src="images/1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An README template that is so addictive that you become lazy like me :smile:
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/InsideU/ReadmeTemplate#about-the-project"><strong> Documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/InsideU/ReadmeTemplate#about-the-project"> View Demo </a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/InsideU/ReadmeTemplate/issues"> Report Bug </a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/InsideU/ReadmeTemplate/pulls"> Send a Pull Request </a>
   </p>
 </p>
 
@@ -37,7 +36,6 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
@@ -62,7 +60,9 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+## Getting Started 
 
+> how shall we begin with the project and what are the necessary things that we should do to begin with it.
 
 
 
@@ -79,11 +79,10 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [wiki]: https://github.com/yourname/yourproject/wiki
 
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[contributors-url]: https://github.com/InsideU
+[forks-url]: https://github.com/InsideU/ReadmeTemplate/network/members
+[stars-url]: https://github.com/InsideU/ReadmeTemplate/stargazers
+[issues-url]: https://github.com/InsideU/ReadmeTemplate/issues
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
